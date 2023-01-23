@@ -1,0 +1,53 @@
+{
+    "multiplier": {
+        "x": 1,
+        "y": 1
+    },
+
+    "hand": [
+        {
+            "player": 1,
+            "x": 0,
+            "y": -8,
+            "rot": 0,
+            "layer": 3
+        },
+        {
+            "player": 2,
+            "x": -10,
+            "y": 0,
+            "rot": 270,
+            "layer": 3
+        },
+        {
+            "player": 3,
+            "x": 0,
+            "y": 8,
+            "rot": 180,
+            "layer": 3
+        },
+        {
+            "player": 4,
+            "x": 10,
+            "y": 0,
+            "rot": 90,
+            "layer": 3
+        }
+    ],
+    "drawPile": {
+        "x": 1.5,
+        "y": 0,
+        "layer": 1,
+        "xStagger": 0.05
+    },
+    "discardPile": {
+        "x": -1.5,
+        "y": 0,
+        "layer": 2
+    },
+    "target": {
+        "x": -1.5,
+        "y": 0,
+        "layer": 4
+    }
+}
